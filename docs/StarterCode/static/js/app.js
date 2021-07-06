@@ -2,7 +2,7 @@
 function buildMetadata(selection) {
 
     // Read the json data
-    d3.json("../../samples.json").then((sampleData) => {
+    d3.json("../samples.json").then((sampleData) => {
 
         console.log(sampleData);
 
