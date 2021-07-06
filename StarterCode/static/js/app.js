@@ -144,4 +144,4 @@ function optionChanged(newSelection) {
 }
 
 // Initialize dashboard on page load
-init()
+init();
